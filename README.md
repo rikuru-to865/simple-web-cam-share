@@ -5,15 +5,15 @@ this is virtual camera,You should be able to run normally
 You can easily share the webcam image by specifying the ip and port and executing it.
 
 ## Requirement
-client:
-  opencv-python
-  socket
-  sys
-server:
-  socket
-  numpy
-  sys
-  opencv-python
+### client:  
+opencv-python  
+socket  
+sys
+### server:  
+socket  
+numpy  
+sys  
+opencv-python  
  ## Usage
  Start the server first
  ```
